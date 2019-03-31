@@ -1,0 +1,8 @@
+{
+  "name": "comments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yyong008/comments.git",
+  "author": "magnesium <757057999@qq.com>",
+  "license": "MIT"
+}

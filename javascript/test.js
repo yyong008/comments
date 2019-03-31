@@ -1,6 +1,8 @@
-/*方法说明
- *@method 方法名
- *@for 所属类名
- *@param{参数类型}参数名 参数说明
- *@return {返回值类型} 返回值说明
- */
+/**
+* Represents a book.
+* @constructor
+* @param {string} title - The title of the book.
+* @param {string} author - The author of the book.
+*/
+function Book(title, author) {
+}
